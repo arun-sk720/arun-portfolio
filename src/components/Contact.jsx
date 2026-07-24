@@ -33,7 +33,7 @@ function Contact() {
             </h3>
 
             <p>
-              YourEmail@example.com
+              arunmoorthysk@gmail.com
             </p>
 
           </div>
@@ -49,7 +49,7 @@ function Contact() {
             </h3>
 
             <p>
-              +91 XXXXX XXXXX
+              +91 98434 33043
             </p>
 
           </div>
